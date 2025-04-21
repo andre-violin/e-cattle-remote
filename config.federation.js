@@ -2,7 +2,7 @@ export default {
   name: 'remote_app',
   filename: 'remoteEntry.js',
   exposes: {
-    './ComponenteApp1': './src/pages/index.vue'
+    './ComponentApp1': './src/pages/index.vue'
   },
   shared: [
     'vue',

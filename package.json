@@ -62,5 +62,8 @@
   "lint-staged": {
     "*.{js,vue}": "eslint --cache --fix",
     "*.{js,css,md}": "prettier --write"
-  }
+  },
+  "author": "André Luís Violin",
+  "description": "<a href=\"https://e-cattle.github.io/\">\r     <img src=\"/src/assets/logo.svg\" alt=\"e-Cattle circle logo\" title=\"Plataforma e-Cattle\" align=\"right\" height=\"90\" />\r </a>",
+  "license": "MIT"
 }
